@@ -207,7 +207,7 @@ const QuizTakePage = () => {
           onClick={handlePreviousQuestion}
           disabled={currentQuestionIndex === 0 || submitting}
           variant="secondary"
-          className="cursor-pointer"
+          className="cursor-pointer mb-5"
         >
           <ChevronLeft
             className="w-4 h-4 group-hover:-translate-x-0.5 transition-transform duration-200"
@@ -220,7 +220,7 @@ const QuizTakePage = () => {
           <button
             onClick={handleSubmitQuiz}
             disabled={submitting}
-            className="group relative px-8 h-12 bg-linear-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-semibold text-sm rounded-xl transition-all duration-200 shadow-lg shadow-emerald-500/25 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed disabled:active:scale-100 overflow-hidden"
+            className="group relative px-8 h-12 bg-linear-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 text-white font-semibold text-sm rounded-xl transition-all duration-200 shadow-lg shadow-emerald-500/25 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed disabled:active:scale-100 overflow-hidden mb-5"
           >
             <span className="relative z-10 flex items-center justify-center gap-2 cursor-pointer">
               {submitting ? (
@@ -241,7 +241,7 @@ const QuizTakePage = () => {
           <Button
             onClick={handleNextQuestion}
             disabled={submitting}
-            className="cursor-pointer"
+            className="cursor-pointer mb-5"
           >
             Next
             <ChevronRight
