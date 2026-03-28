@@ -20,6 +20,22 @@ According to the system workflow, users upload documents and AI processes them t
 
 ---
 
+## 📸 Preview
+
+<p align="center">
+  <img src="images/login.png">
+  <img src="images/Dashboard.png">
+  <img src="images/Documents.png">
+  <img src="images/aiChat.png">
+  <img src="images/allFlashcardsSets.png">
+  <img src="images/Profile.png">
+</p>
+
+
+
+
+---
+
 ## ❗ Problem Statement
 
 - Students spend too much time reading long PDFs  
