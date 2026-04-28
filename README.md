@@ -6,6 +6,24 @@ It combines document reading, AI assistance, and revision tools into one unified
 
 ---
 
+## Project Title
+SmartLearn – An AI-Based Academic Support Platform
+
+## Type
+Copyright
+
+## Team Members
+1. Rahul Kumar (2211981286)
+2. Rahul Kumar (2211981287)
+3. Rahul Patra (2211981290)
+4. Rahul Samanta (2211981291)
+
+## Team Details
+B.Tech CSE
+
+## Current Status
+Completed
+
 ## 📌 Overview
 
 Students today rely heavily on digital learning materials like PDFs, slides, and notes. However:
@@ -261,10 +279,10 @@ This project demonstrates:
 
 ```bash
 # Clone repo
-git clone https://github.com/<your-username>/AI-Learning-Platform.git
+git clone https://github.com/<your-username>/SmartLearn-AI-Academic-Support-Platform-2211981286-2211981287-2211981290-2211981291.git
 
 # Go to project
-cd AI-Learning-Platform
+cd SmartLearn-AI-Academic-Support-Platform-2211981286-2211981287-2211981290-2211981291
 
 # Install frontend
 cd frontend
